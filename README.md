@@ -57,6 +57,7 @@ To transition into a challenging and rewarding role in **Cybersecurity** where I
 ## 📚 What’s Next?
 
 Over the coming months, I’ll be:
+- I will be taking necessary steps to cover the time that i lost touch after my masters.
 - Sharing mini projects, security labs, and write-ups
 - Completing hands-on labs using tools like Wireshark, Splunk, and more
 - Documenting my learning journey and takeaways
@@ -69,8 +70,8 @@ Over the coming months, I’ll be:
 Feel free to reach out or collaborate!
 
 - 📧 Email: joelninan@gmail.com  
-- 🌐 LinkedIn: [Joel Ninan Varghese](https://www.linkedin.com/in/joelninanvarghese)  
-- 📍 Based in: India (Originally from Dublin, Ireland)  
+- 🌐 LinkedIn: [Joel Ninan Varghese](https://www.linkedin.com/in/joelninan/)  
+- 📍 Based in: Dublin, Ireland (Originally from India)  
 - 📁 More: [CV available on request]
 
 ---
