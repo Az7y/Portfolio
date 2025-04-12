@@ -1,6 +1,6 @@
 # 👨‍💻 Joel Ninan Varghese - Cybersecurity Career Portfolio
 
-Welcome to my Cybersecurity Career Portfolio! I'm Joel, a passionate and determined professional making a bold transition from restaurant operations management to the world of cybersecurity.
+Welcome to my Cybersecurity Career Portfolio! I'm Joel, a passionate and determined professional making a bold transition from restaurant operations management to the world of Cybersecurity.
 
 ---
 
@@ -14,13 +14,13 @@ I took a leap of faith by stepping away from my comfort zone to pursue my true p
 
 ## 🧠 Current Learning Journey
 
-🎓 **Master's in Applied Cybersecurity**  
-Queen’s University Belfast  
-*Graduated with Second-Class Honours and received a merit-based scholarship*
+🎓 **Master's in Applied Cybersecurity**    
+*Graduated with Second-Class Honours and received a merit-based scholarship in 2020*
 
 📘 **Google Cybersecurity Professional Certificate (Coursera)**  
 *Currently pursuing (2025)*  
 This program is helping me build a strong foundation in:
+- Conducting security audits
 - Security information and event management (SIEM)
 - Network security
 - Incident detection and response
